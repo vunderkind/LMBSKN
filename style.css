@@ -6,6 +6,7 @@
     height: 100%;
     color: #fff;
     background-color: black;
+    overflow: hidden;
     /* background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -51,4 +52,10 @@ h1{
 }
 .second-nav > p:hover {
     color: rgb(125, 254, 209);
+}
+
+.box {
+    position: absolute;
+    background-color: rgb(28, 28, 28);
+    filter: blur(3px);
 }
