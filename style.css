@@ -56,6 +56,7 @@ h1{
 
 .box {
     position: absolute;
-    background-color: rgb(28, 28, 28);
-    filter: blur(3px);
+    background-color: rgb(172, 255, 249);
+    filter: blur(6px);
+    opacity: .1;
 }
